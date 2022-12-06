@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="عربي_الأردن_خامس (Q8)" />
+              <option name="title_text" value="عربي_الأردن_خامس (Q3)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1554,7 +1554,6 @@
         <slidelink slideid="_player.5yZJBl1mu65" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5yZJBl1mu65.6LNgbnFLLQR" displaytext="Drag &amp;amp; Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5yZJBl1mu65.6NEqV7MO5Th" displaytext="Drag &amp;amp; Drop" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
